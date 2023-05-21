@@ -4,7 +4,7 @@
 
 | Comando              | Accion         | 
 | -------------------- | :------------: |
-| `git init`           | Inizializacion |
+| ```git init```       | Inizializacion |
 
 ```
 git init
