@@ -1,6 +1,11 @@
 # Comandos Git
 
 #### Inizializar Git
+
+| Comando              | Accion         | 
+| -------------------- | :------------: |
+| `git init`           | Inizializacion |
+
 ```
 git init
 ```
